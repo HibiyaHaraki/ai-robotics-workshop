@@ -1,0 +1,9 @@
+<launch>
+
+<node pkg="jetbot_ros" type="jetbot_camera" name="jetbot_camera" output="screen" cwd="node">
+<remap from="/jetbot_camera/raw" to="/image_raw"/>
+</node>
+
+<node pkg="jetbot_ros" type="jetbot_motors.py" name="jetbot_motors" output="screen" cwd="node"/>
+
+</launch>
