@@ -1,7 +1,5 @@
 # MATLAB AI Robotics Workshop
 
-[![View MATLAB AI Robotics Workshop on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/91980-matlab-ai-robotics-workshop)
-
 This material outlines a hands-on workshop on learning how to develop AI-based autonomous mobile robot for university students and engineers of all skill levels. MATLAB and Simulink are utilized as an intuitive learning environment for deep learning and control algorithms with a 3D virtual simulation environment. In addtion, this content also covers the hardware deployment using an [NVIDIA&reg; JetBot](https://jetbot.org/).
 
 ![MATLAB AI robotics workshop demo video](doc/matlab_ai_robotics_workshop.gif)
