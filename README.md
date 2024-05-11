@@ -1,6 +1,6 @@
 # MATLAB AI Robotics Workshop
 
-This material outlines a hands-on workshop on learning how to develop AI-based autonomous mobile robot for university students and engineers of all skill levels. MATLAB and Simulink are utilized as an intuitive learning environment for deep learning and control algorithms with a 3D virtual simulation environment. In addtion, this content also covers the hardware deployment using an [NVIDIA&reg; JetBot](https://jetbot.org/).
+This material outlines a hands-on workshop on learning how to develop AI-based autonomous mobile robot for university students and engineers of all skill levels. MATLAB and Simulink are utilized as an intuitive learning environment for deep learning and control algorithms with a 3D virtual simulation environment.
 
 ![MATLAB AI robotics workshop demo video](doc/matlab_ai_robotics_workshop.gif)
 
@@ -20,21 +20,6 @@ Requires MATLAB release R2021a or newer
 - [Parallel Computing Toolbox&trade;](https://www.mathworks.com/products/parallel-computing.html)
 - [Robotics System Toolbox&trade;](https://www.mathworks.com/products/robotics.html)
 - [Simulink 3D Animation&trade;](https://www.mathworks.com/products/3d-animation.html)
-
-### Hardware Deployment (*Optional*)
-
-![NVIDIA JetBot hardware deployment video](doc/matlab_ai_robotics_workshop_hardware.gif)
-
-Following MathWorks products and 3rd party products are additionaly rquired for the hardware deployment.
-
-- [ROS Toolbox](https://www.mathworks.com/products/ros.html)
-- [MATLAB Coder&trade;](https://www.mathworks.com/products/matlab-coder.html)
-- [Simulink Coder&trade;](https://www.mathworks.com/products/simulink-coder.html)
-- [GPU Coder&trade;](https://www.mathworks.com/products/gpu-coder.html)
-
-3rd Party Products
-
-- [NVIDIA&reg; JetBot](https://jetbot.org/) (We tested with [FaBo's JetBot](https://www.fabo.store/collections/jetbot/products/jetbot-kit))
 
 ## Getting Started 
 
